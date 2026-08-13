@@ -1,0 +1,23 @@
+[
+  {
+    "id": "student-demo",
+    "name": "Demo Student",
+    "email": "student@ieis.io",
+    "password": "Student123!",
+    "role": "student"
+  },
+  {
+    "id": "staff-demo",
+    "name": "IEIS Staff",
+    "email": "staff@ieis.io",
+    "password": "Staff123!",
+    "role": "staff"
+  },
+  {
+    "id": "admin-demo",
+    "name": "IEIS Administrator",
+    "email": "admin@ieis.io",
+    "password": "Admin123!",
+    "role": "admin"
+  }
+]
